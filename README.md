@@ -1,22 +1,30 @@
 ### Hi, I'm Lucas! 👋
+<br />
+<p>🇧🇷  I'm a front-end developer and UI Desgin </p>
+<p>👩‍💻 My preferred languages ​​are JavaScript and C# </p>
 
-🇧🇷  At the moment i'm learning Java <br>
-👩‍💻 My preferred languages ​​are JavaScript and C # <br>
 
+### Find me elsewhere 🌎 
+<br />
 
-### Find me elsewhere 🌎
-
-🐦  [Instagram](https://www.instagram.com/lucasz_slw/) <br>
+📷  [Instagram](https://www.instagram.com/lucasz_slw/) <br>
 💼  [LinkedIn](www.linkedin.com/in/lucas-patrick-p) <br>
+💻  [StackOverflow](https://pt.stackoverflow.com/users/234672/lucas-patrick) <br>
 
-### My favorite technologies 👩‍💻
 
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Next" width="30px" src="https://i.ibb.co/Y0jxfX8/Nextjs.png" />
-<img align="left" alt="Next" width="30px" src="https://i.ibb.co/QcQXMx4/C.png" />
 
+### My technologies stack 📚
+
+<br />
+
+<img align="left" style= "margin:0 10px" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="center" style= "margin:0 10px" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
+<img align="center" alt="Next" width="30px" src="https://i.ibb.co/y8SVJ0j/next.png" />
+<img align="center"  style= "margin:0 10px" alt="C#" width="30px" src="https://i.ibb.co/QcQXMx4/C.png" />
+<img align="center" style= "margin:0 10px" alt="React" width="30px" src="https://i.ibb.co/6H0NLgV/atom.png" />
+<img align="center" style= "margin:0 10px" alt="CSS" width="30px" src="https://i.ibb.co/GJCzT6j/css-3.png" />
+<img align="center" style= "margin:0 10px" alt="SQL-Server" width="30px" src="https://i.ibb.co/Wg2MP3j/servidor-sql.png" />
+<img align="center" style= "margin:0 10px" alt="Sass" width="30px" src="https://i.ibb.co/kSGHwzG/sass.png" />
 
 <br />
 <br />
