@@ -1,10 +1,10 @@
-### Hi, I'm Lucas! 👋
+### Oi, eu sou o Lucas! 👋
 <br />
-<p>🇧🇷  I'm a front-end developer and UI Desgin </p>
-<p>👩‍💻 My preferred languages ​​are JavaScript and C# </p>
+<p> Sou desenvolvedor front-end e apaixonado por Design, UX/UI </p>
+<p> Adoro trabalhar com CSS, seja ele SASS, SCSS ou bibliotecas como styled components e desenvolver interfaces </p>
 
 
-### Find me elsewhere 🌎 
+### FOutros Perfis 🌎 
 <br />
 
 📷  [Instagram](https://www.instagram.com/lucasz_slw/) <br>
@@ -18,8 +18,6 @@
 <br />
 <div id="stack">
 <img align="left" style= "margin:0 10px" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" style= "margin:0 10px" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-<img align="left" alt="Next" width="30px" src="https://i.ibb.co/y8SVJ0j/next.png" />
 <img align="left"  style= "margin:0 10px" alt="C#" width="30px" src="https://i.ibb.co/QcQXMx4/C.png" />
 <img align="left" style= "margin:0 10px" alt="React" width="30px" src="https://i.ibb.co/6H0NLgV/atom.png" />
 <img align="left" style= "margin:0 10px" alt="CSS" width="30px" src="https://i.ibb.co/GJCzT6j/css-3.png" />
