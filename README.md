@@ -4,7 +4,7 @@
 <p> Adoro trabalhar com CSS, seja ele SASS, SCSS ou bibliotecas como styled components e desenvolver interfaces </p>
 
 
-### FOutros Perfis 🌎 
+### Outros Perfis 🌎 
 <br />
 
 📷  [Instagram](https://www.instagram.com/lucasz_slw/) <br>
