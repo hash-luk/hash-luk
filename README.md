@@ -39,7 +39,7 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div>
+<div style="display: flex; flex-direction: row; align-item:center; justify-content: center">
 <img width="487.5rem"  src="https://github-readme-stats.vercel.app/api?username=hash-luk&show_icons=true&theme=vision-friendly-dark" alt="lucaspatrick's stats"/>
 <img width="487.5rem"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=vision-friendly-dark" alt="lucaspatrick's most languages"/>
 </div>
