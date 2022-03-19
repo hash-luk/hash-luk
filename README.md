@@ -31,17 +31,18 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=007ACC)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=007ACC)&nbsp;
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="display: flex; flex-direction: row; align-item:center; justify-content: space-evenly; width:100%">
+<div style="align=center">
 <img width="487.5rem" height="180em" src="https://github-readme-stats.vercel.app/api?username=hash-luk&show_icons=true&theme=vision-friendly-dark" alt="lucaspatrick's stats"/>
-<img width="510rem"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=vision-friendly-dark" alt="lucaspatrick's most languages"/>
+<img width="487.5rem"  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=vision-friendly-dark" alt="lucaspatrick's most languages"/>
 </div>
 
 <br><br>
