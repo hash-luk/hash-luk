@@ -35,7 +35,6 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
 ![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap)&nbsp;
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=scss)&nbsp;
 
 <br><br>
 
