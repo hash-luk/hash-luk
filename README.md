@@ -49,7 +49,7 @@
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
-<p align="left" style="background:yellow">
+<p align="center" style="background:yellow">
 <a href="https://codepen.io/hash-luk" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-LucasPatrick-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
