@@ -40,14 +40,13 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<div style="align=center">
+<div align="center">
 <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hash-luk&show_icons=true&theme=jolly&icons=true" alt="lucaspatrick's stats"/>
 <img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=jolly&icons=true" alt="lucaspatrick's most languages"/>
 </div>
 
 <br><br>
 
-## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="center" style="background:yellow">
 <a href="https://codepen.io/hash-luk" target="_blank">
