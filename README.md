@@ -41,8 +41,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <div style="align=center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hash-luk&show_icons=true&theme=vision-friendly-dark" alt="lucaspatrick's stats"/>
-<img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=joly&icons=true" alt="lucaspatrick's most languages"/>
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hash-luk&show_icons=true&theme=joly" alt="lucaspatrick's stats"/>
+<img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=joly" alt="lucaspatrick's most languages"/>
 </div>
 
 <br><br>
