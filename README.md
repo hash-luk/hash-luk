@@ -1,4 +1,4 @@
-<img align="right" width="500em" height="500em" src="https://github.com/hash-luk/hash-luk/blob/main/code-gif.gif"/>
+<img align="right" width="350em" height="350em" src="https://github.com/hash-luk/hash-luk/blob/main/code-gif.gif"/>
 
 <!--
 <img align="right" height="590em" src="https://gist.githubusercontent.com/hash-luk/71798b2a84db530831e216293034add9/raw/34bccb02b6abea001e0fbd3472602145bddd556f/gitcard.svg"/>
