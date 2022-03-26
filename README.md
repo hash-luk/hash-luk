@@ -1,4 +1,4 @@
-<img align="right" width="480" height="270" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"/>
+<img align="right" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429"/>
 
 <img align="right" height="590em" src="https://gist.githubusercontent.com/hash-luk/71798b2a84db530831e216293034add9/raw/34bccb02b6abea001e0fbd3472602145bddd556f/gitcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Patrick</h1>
