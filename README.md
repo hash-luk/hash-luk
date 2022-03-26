@@ -1,9 +1,11 @@
-<img align="right" height="590em" src="https://github.com/hash-luk/hash-luk/blob/main/coding.gif"/>
+<img align="right" width="300em" height="590em" src="https://github.com/hash-luk/hash-luk/blob/main/coding.gif"/>
 
-
+<!--
 <img align="right" height="590em" src="https://gist.githubusercontent.com/hash-luk/71798b2a84db530831e216293034add9/raw/34bccb02b6abea001e0fbd3472602145bddd556f/gitcard.svg"/>
+-->
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Patrick</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hash-luk&color=AD2BAD" alt="Profile views" /> </p>
+
 
 
 - 🔥 Junior Web Developer and UX Designer 
