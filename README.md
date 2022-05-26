@@ -5,8 +5,6 @@
 
 - 🔥 Junior Web Developer and UX Designer 
 
-- 🔭 I’m currently working at [SolarVolt](https://www.solarvoltenergia.com.br)
-
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org)
 
 - 👨‍💻 All of my projects are available at [hash-luk](https://github.com/hash-luk)
