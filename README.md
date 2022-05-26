@@ -2,10 +2,6 @@
 
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Patrick</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hash-luk&color=AD2BAD" alt="Profile views" /> </p>
-
-
 
 - 🔥 Junior Web Developer and UX Designer 
 
