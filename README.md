@@ -3,7 +3,7 @@
 
 
 
-- 🔥 Junior Web Developer and UX Designer 
+- 🔥 Junior Front-end developer
 
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org)
 
@@ -11,7 +11,7 @@
 
 - ▶️ Follow me on [Instagram](https://www.instagram.com/lucasz_slw/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, Node.JS**
+- 💬 Ask me about **JavaScript, HTML, CSS, React, TypeScript**
 
 - ⚡ More about me: I Love Purple 💜
 
