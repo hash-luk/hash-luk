@@ -3,7 +3,7 @@
 
 
 
-- 🔥 Junior Front-end developer
+- 🔥 Front-end developer
 
 - 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org)
 
