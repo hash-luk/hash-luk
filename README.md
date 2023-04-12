@@ -1,11 +1,8 @@
-![Header](./header.png)
-
-
-
+# Oi, eu sou o Lucas, desenvolvedor web front-end!
 
 - 🔥 Front-end developer
 
-- 🌱 I’m currently learning [TypeScript](https://www.typescriptlang.org)
+- 🌱 I’m currently learning [Next.JS](https://nextjs.org)
 
 - 👨‍💻 All of my projects are available at [hash-luk](https://github.com/hash-luk)
 
