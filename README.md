@@ -1,6 +1,6 @@
-# Oi, eu sou o Lucas, desenvolvedor web front-end!
+# Hi, I'm Lucas and i'm a full-stack developer!
 
-- 🔥 Front-end developer
+- 🔥 FullStack Developer
 
 - 🌱 I’m currently learning [PHP](https://www.php.net)
 
