@@ -2,13 +2,15 @@
 
 - 🔥 Front-end developer
 
-- 🌱 I’m currently learning [Next.JS](https://nextjs.org)
+- 🌱 I’m currently learning [PHP](https://www.php.net)
 
 - 👨‍💻 All of my projects are available at [hash-luk](https://github.com/hash-luk)
 
+- 👨‍💻 You can find my portfolio [here](https://lucascode.dev)
+
 - ▶️ Follow me on [Instagram](https://www.instagram.com/lucasz_slw/)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React, TypeScript**
+- 💬 Ask me about **JavaScript, TypeScript, React, Next**
 
 - ⚡ More about me: I Love Purple 💜
 
