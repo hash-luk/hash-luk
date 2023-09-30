@@ -46,15 +46,3 @@
 <br><br>
 
 ##
-
-<p align="center" style="background:yellow">
-<a href="https://codepen.io/hash-luk" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-LucasPatrick-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://linkedin.com/in/lucas-patrick-p" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucaspatrick-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/lucasz_slw" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-lucaspatrick-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
