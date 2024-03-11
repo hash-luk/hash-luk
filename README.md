@@ -3,9 +3,9 @@
 [![Website Badge](https://img.shields.io/badge/website-60C3C7?style=flat&link=https%3A%2F%2Flucascode.dev)](https://www.lucascode.dev)
 [![LinkedIN Badge](https://img.shields.io/badge/LinkedIN-60C3C7?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-patrick-p)](https://www.linkedin.com/in/lucas-patrick-p)
 
-- 🔥 FullStack Developer
+- 🔥 Front-end Developer
 
-- 🌱 I’m currently learning [PHP](https://www.php.net)
+- 🌱 I’m currently learning [Angular](https://angular.io/)
 
 - 👨‍💻 All of my projects are available at [hash-luk](https://github.com/hash-luk)
 
