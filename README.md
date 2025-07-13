@@ -1,48 +1,37 @@
-# Hi, I'm Lucas and i'm a full-stack developer!
+<h1 align="center">Hello, I'm Lucas 👋</h1>
 
-[![Website Badge](https://img.shields.io/badge/website-60C3C7?style=flat&link=https%3A%2F%2Flucascode.dev)](https://www.lucascode.dev)
-[![LinkedIN Badge](https://img.shields.io/badge/LinkedIN-60C3C7?style=flat&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Flucas-patrick-p)](https://www.linkedin.com/in/lucas-patrick-p)
+<p align="center">
+  Full-Stack Developer passionate about clean code, automation and solving real problems with technology.
+</p>
 
-- 🔥 Full-Stack Developer
+---
 
-- 🌱 I’m currently learning [Angular](https://angular.io/)
+## 🧠 About me
 
-- 👨‍💻 All of my projects are available at [hash-luk](https://github.com/hash-luk)
+- 💻 Currently working with PHP 
+- 🎯 Studying to become an increasingly complete dev
+- 🚀 Main languages are PHP, TypeScript and JavaScript 
+- 📚 Postgraduate in software architecture
 
-- 👨‍💻 You can find my portfolio [here](https://lucascode.dev)
+---
 
-- 💬 Ask me about **JavaScript, TypeScript, React, Next**
+## 🛠️ Technologies
 
-- ⚡ More about me: I Love Purple 💜
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
+
+---
+
+## 🔗 Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Patrick-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-patrick-p/)
+[![Portfólio](https://img.shields.io/badge/Portfólio-lucascode.dev-blueviolet?style=for-the-badge)](https://lucascode.dev)
+
+---
 
 
-
-<br><br>
-
-## 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=TypeScript&logoColor=007ACC)&nbsp;
-![PHP](https://img.shields.io/badge/-php-05122A?style=flat&logo=php&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Next](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![JQuery](https://img.shields.io/badge/-JQuery-05122A?style=flat&logo=jquery)&nbsp;
-![BootStrap](https://img.shields.io/badge/-BootStrap-05122A?style=flat&logo=bootstrap)&nbsp;
-![Cypress](https://img.shields.io/badge/-Cypress-05122A?style=flat&logo=cypress)&nbsp;
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<div align="center">
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=hash-luk&show_icons=true&theme=jolly&icons=true" alt="lucaspatrick's stats"/>
-<img   height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hash-luk&layout=compact&theme=jolly&icons=true" alt="lucaspatrick's most languages"/>
-</div>
-
-<br><br>
-
-##
+<p align="center"><sub>“Building a better version of myself, one line of code at a time.”</sub></p>
