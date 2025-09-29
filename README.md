@@ -20,7 +20,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333?style=flat&logo=tailwind-css)
 
